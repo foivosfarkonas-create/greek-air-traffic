@@ -1,0 +1,5 @@
+# Virtual environment (each person creates their own)
+.venv/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
